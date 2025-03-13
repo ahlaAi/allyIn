@@ -1,0 +1,5 @@
+Workload,Original Model Accuracy,Distilled Model Accuracy,Remarks
+SuperGLUE_cb,0.375,0.5,Zero-shot classification performance
+GLUE_mrpc,0.5857843137254902,0.3235294117647059,Zero-shot classification performance
+XTREME_XNLI,0.32994011976047904,0.3333333333333333,Zero-shot classification performance
+TREC,0.018,0.018,Zero-shot classification performance
